@@ -33,10 +33,10 @@ a.action {
   border: none;
 }
 
-body.sm-logo {
-  background-image: url(images/logo-sm-tr.png);
+.sm-logo {
+  background-image: url(./images/logo.png);
   background-repeat: no-repeat;
-  background-size: 104px 70px;
+  background-size: fill;
   background-position: top right;
 }
 
